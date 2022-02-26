@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+border: 7px blueviolet;
+background-color: blueviolet;
+border-radius: 15px;
+text-decoration: none;
+}
+
+header {
+background-color: cadetblue;
+border: 15px solid navy;
+border-radius: 15px;
+
+}
+
+
+
+h1 {
+text-align: center;
+color: blueviolet;
+text-decoration:underline;
+}
+
+
+footer p {
+border: 3px solid cyan;
+border-radius: 100px;
+padding: 4px;
+background-color: cyan;
+}
+nav {
+    text-align: center;
+border: solid violet ;
+background-color: aqua;
+border-radius: 15px;
+
+}
+
+nav a {
+
+text-decoration:none ;
+
+
+
+}
+
+.kok {
+    text-align: center;
+    padding: 5px;
+    border-radius: 15px;
+border: 6px solid navy;
+}
+h2 {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: pink;
+}
+
+.but{
+border: solid burlywood;
+border-radius: 15px;
+padding: 3px;
+text-decoration: none;
+
+}
+
+p {
+    font-size:20px;
+}
